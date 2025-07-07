@@ -69,7 +69,7 @@ Wait for the server to start.
 ********************************************************************************************************
 
 Thank you for checking out this Online Hotel Booking System project!
-I hope it helps you understand building full-stack Java web applications using Servlets, JSP, and MySQL.
+I hope it helps you understand building full-stack Java web applications using HTML, CSS, Servlets, JSP, and MySQL.
 
 If you like this project, feel free to ⭐ star the repository and share your feedback.
 For any issues or suggestions, please open an issue or submit a pull request to improve the project.
